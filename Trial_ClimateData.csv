@@ -1,52 +1,52 @@
-City,Htemp,Ltemp_F,In_Rain,In_Snow
-"Atlanta, Georgia",72,53,49.7,2.9
-"Austin, Texas",80,59,34.2,0.6
-"Baltimore, Maryland",65,45,41.9,20.2
-"Birmingham, Alabama",74,53,53.7,1.6
-"Boston, Massachusetts",59,44,43.8,43.8
-"Buffalo, New York",56,40,40.5,94.7
-"Charlotte, North Carolina",71,49,41.6,4.3
-"Chicago, Illinois",59,41,36.9,36.7
-"Cincinnati, Ohio",65,43,41.9,11.2
-"Cleveland, Ohio",60,43,39.1,68.1
-"Columbus, Ohio",63,44,39.3,27.5
-"Dallas, Texas",77,57,37.6,1.5
-"Denver, Colorado",64,36,15.6,53.8
-"Detroit, Michigan",59,42,33.5,42.7
-"Hartford, Connecticut",61,40,45.9,40.5
-"Houston, Texas",80,60,49.8,0.1
-"Indianapolis, Indiana",63,44,42.4,25.9
-"Jacksonville, Florida",79,58,52.4,0
-"Kansas City, Missouri",66,48,39.1,13.4
-"Las Vegas, Nevada",80,59,4.2,0.3
-"Los Angeles, California",75,56,12.8,0
-"Louisville, Kentucky",68,49,44.9,12.5
-"Memphis, Tennessee",73,54,53.7,3.8
-"Miami, Florida",84,70,61.9,0
-"Milwaukee, Wisconsin",56,40,34.8,46.9
-"Minneapolis, Minnesota",55,37,30.6,54
-"Nashville, Tennessee",70,49,47.3,6.3
-"New Orleans, Louisiana",78,61,62.7,0
-"New York, New York",62,48,49.9,25.1
-"Oklahoma City, Oklahoma",72,51,36.5,7.8
-"Orlando, Florida",83,63,50.7,0
-"Philadelphia, Pennsylvania",65,47,41.5,22.4
-"Phoenix, Arizona",87,63,8.2,0
-"Pittsburgh, Pennsylvania",61,42,38.2,41.9
-"Portland, Oregon",63,45,43.5,3
-"Providence, Rhode Island",61,43,47.2,33.8
-"Raleigh, North Carolina",72,50,46,3.9
-"Richmond, Virginia",70,48,43.6,10.3
-"Riverside, California",81,53,10.3,0
-"Rochester, New York",57,39,34.3,99.5
-"Sacramento, California",74,48,18.5,0
-"Salt Lake City, Utah",64,42,16.1,56.2
-"San Antonio, Texas",80,59,32.3,0.7
-"San Diego, California",70,58,10.3,0
-"San Francisco, California",64,51,20.7,0
-"San Jose, California",71,50,15.8,0
-"Seattle, Washington",61,46,37.7,5
-"St. Louis, Missouri",66,48,41,17.7
-"Tampa, Florida",82,65,46.3,0
-"Virginia Beach, Virginia",68,52,46.5,5.8
-"Washington, DC",67,50,39.7,14.5
+City,State,Htemp,Ltemp_F,In_Rain,In_Snow
+"Atlanta", "Georgia",72,53,49.7,2.9
+"Austin", "Texas",80,59,34.2,0.6
+"Baltimore", "Maryland",65,45,41.9,20.2
+"Birmingham", "Alabama",74,53,53.7,1.6
+"Boston", "Massachusetts",59,44,43.8,43.8
+"Buffalo", "New York",56,40,40.5,94.7
+"Charlotte", "North Carolina",71,49,41.6,4.3
+"Chicago", "Illinois",59,41,36.9,36.7
+"Cincinnati", "Ohio",65,43,41.9,11.2
+"Cleveland", "Ohio",60,43,39.1,68.1
+"Columbus", "Ohio",63,44,39.3,27.5
+"Dallas", "Texas",77,57,37.6,1.5
+"Denver", "Colorado",64,36,15.6,53.8
+"Detroit", "Michigan",59,42,33.5,42.7
+"Hartford", "Connecticut",61,40,45.9,40.5
+"Houston", "Texas",80,60,49.8,0.1
+"Indianapolis", "Indiana",63,44,42.4,25.9
+"Jacksonville", "Florida",79,58,52.4,0
+"Kansas City", "Missouri",66,48,39.1,13.4
+"Las Vegas", "Nevada",80,59,4.2,0.3
+"Los Angeles", "California",75,56,12.8,0
+"Louisville", "Kentucky",68,49,44.9,12.5
+"Memphis", "Tennessee",73,54,53.7,3.8
+"Miami", "Florida",84,70,61.9,0
+"Milwaukee", "Wisconsin",56,40,34.8,46.9
+"Minneapolis", "Minnesota",55,37,30.6,54
+"Nashville", "Tennessee",70,49,47.3,6.3
+"New Orleans", "Louisiana",78,61,62.7,0
+"New York", "New York",62,48,49.9,25.1
+"Oklahoma City", "Oklahoma",72,51,36.5,7.8
+"Orlando", "Florida",83,63,50.7,0
+"Philadelphia", "Pennsylvania",65,47,41.5,22.4
+"Phoenix", "Arizona",87,63,8.2,0
+"Pittsburgh", "Pennsylvania",61,42,38.2,41.9
+"Portland", "Oregon",63,45,43.5,3
+"Providence", "Rhode Island",61,43,47.2,33.8
+"Raleigh", "North Carolina",72,50,46,3.9
+"Richmond", "Virginia",70,48,43.6,10.3
+"Riverside", "California",81,53,10.3,0
+"Rochester", "New York",57,39,34.3,99.5
+"Sacramento", "California",74,48,18.5,0
+"Salt Lake City", "Utah",64,42,16.1,56.2
+"San Antonio", "Texas",80,59,32.3,0.7
+"San Diego", "California",70,58,10.3,0
+"San Francisco", "California",64,51,20.7,0
+"San Jose", "California",71,50,15.8,0
+"Seattle", "Washington",61,46,37.7,5
+"St. Louis", "Missouri",66,48,41,17.7
+"Tampa", "Florida",82,65,46.3,0
+"Virginia Beach", "Virginia",68,52,46.5,5.8
+"Washington, DC", "Independent Region", 67,50,39.7,14.5

@@ -1,6 +1,6 @@
 On this Project we explored different concepts of data manipulation and visualization with regards to the climate of the US.
 
-
+Before we begin, please note that the 'MasterNotebook_Model' file is the most current file for our model. Run that one.
 
 The following will detail instructions for running our code:
 

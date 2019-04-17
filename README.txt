@@ -23,13 +23,16 @@ For the visualization of this project:
   - We used folium to get our data visualized in maps
 
   - pandas for data manipulation
+  
 
 
 We got data from the following websites:
 
-currentresults.com
+  -currentresults.com
 
-noaa.gov
+  -noaa.gov
+  
+  
 
 The workload for this project was split as follows:
 

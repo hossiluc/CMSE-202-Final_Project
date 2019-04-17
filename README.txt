@@ -1,4 +1,6 @@
-On This Project we explored different concepts of data manipulation and visualization.
+On this Project we explored different concepts of data manipulation and visualization with regards to the climate of the US.
+
+
 
 The following will detail instructions for running our code:
 

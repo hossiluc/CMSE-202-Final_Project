@@ -1,4 +1,9 @@
-initial readme
+On This Project we explored different concepts of data manipulation and visualization.
 
-##Adding the link to the website for data
-https://www.usclimatedata.com/climate/united-states/us
+We used folium to get our data visualized in maps
+
+pandas for data manipulation
+
+
+We got data from the following websites:
+
